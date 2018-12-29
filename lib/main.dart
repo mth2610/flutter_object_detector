@@ -42,9 +42,9 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
-    FirebaseAdMob.instance.initialize(appId: "ca-app-pub-7839960170715319~6163613203");
+    FirebaseAdMob.instance.initialize(appId: "[YOUR APPLICATION ID]");
     myInterstitial = InterstitialAd(
-      adUnitId: "ca-app-pub-7839960170715319/3227162947",
+      adUnitId: "[YOUR AD UNIT ID]",
       targetingInfo: targetingInfo,
       listener: (MobileAdEvent event) {
         print("InterstitialAd event is $event");
