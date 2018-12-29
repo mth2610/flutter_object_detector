@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "970727703533",
+    "firebase_url": "https://apod2-3aa82.firebaseio.com",
+    "project_id": "apod2-3aa82",
+    "storage_bucket": "apod2-3aa82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970727703533:android:5b897f3ea19773af",
+        "android_client_info": {
+          "package_name": "com.mth2610.objectdetector2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970727703533-043h2p7ihnn30fk82vthrrv55qeuc0n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoZFvUwbhhJg6X9EsH-qCbclXDRWtAZNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
