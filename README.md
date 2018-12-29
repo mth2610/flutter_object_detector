@@ -9,4 +9,4 @@ For help getting started with Flutter, view our online
 
 ## Donate
 If you find it is interesting, consider buy me a cup of coffee:
-[Donation](paypal.me/maithang)
+[Donation](https://paypal.me/maithang)
